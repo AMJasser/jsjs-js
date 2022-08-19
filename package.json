@@ -1,0 +1,19 @@
+{
+  "name": "jsjs-js",
+  "version": "1.0.0",
+  "description": "Create PDF files from HTML templates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMJasser/jsjs-js.git"
+  },
+  "author": "Abdullah AlJasser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AMJasser/jsjs-js/issues"
+  },
+  "homepage": "https://github.com/AMJasser/jsjs-js#readme"
+}
