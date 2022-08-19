@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AMJasser/jsjs-js/issues"
   },
-  "homepage": "https://github.com/AMJasser/jsjs-js#readme"
+  "homepage": "https://github.com/AMJasser/jsjs-js#readme",
+  "dependencies": {
+    "html-pdf": "^3.0.1"
+  }
 }
